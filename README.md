@@ -55,13 +55,13 @@ STC Bangladesh
 
 Total Project 50+
 ================= 
-# Enterprise Business ERP
-# Retail UniERP
-# Point of Sales (POS)
-# Hospital Management ERP
-# Golden Life Insurance ERP
-# Garments ERP (DMS)
-# E-Commerce Site (Multiple)
-# ERP for SMEF ( Small & Medium Enterprise Foundation)
-# Bangla Economy (Yellow Page web Portal)
-# Songbadbd (Online News Portal)
+- Enterprise Business ERP
+- Retail UniERP
+- Point of Sales (POS)
+- Hospital Management ERP
+- Golden Life Insurance ERP
+- Garments ERP (DMS)
+- E-Commerce Site (Multiple)
+- ERP for SMEF ( Small & Medium Enterprise Foundation)
+- Bangla Economy (Yellow Page web Portal)
+- Songbadbd (Online News Portal)

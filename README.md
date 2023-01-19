@@ -27,3 +27,33 @@ Skills: ▪ ASP .Net ▪ MVC ▪ C# ▪ MSSQL, MySQL ▪ Oracle ▪ JavaScript �
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Bikash Roy)  
 
 ![Profile views](https://gpvc.arturio.dev/Bikash Roy)  
+
+
+Courses & Training 
+=================== 
+Microsoft Power BI 
+Microsoft Bangladesh
+Azure Solutions Architect 
+New Horizone, Bangladesh (Continuing)
+Microsoft .NET 
+Software Technology Group (STG), Bangalore, India 
+Oracle 9i  
+Software Technology Group (STG), Bangalore, India 
+Web Page Designing
+Software Technology Group (STG), Bangalore, India 
+Project Management Web Class (PMP) 
+STC Bangladesh
+
+Total Project 50+
+================= 
+- Enterprise Business ERP
+- Retail UniERP
+- Point of Sales (POS)
+- Hospital Management ERP
+- Golden Life Insurance ERP
+- Garments ERP (DMS)
+- E-Commerce Site (Multiple)
+- ERP for SMEF ( Small & Medium Enterprise Foundation)
+- Bangla Economy (Yellow Page web Portal)
+- Songbadbd (Online News Portal)
+
